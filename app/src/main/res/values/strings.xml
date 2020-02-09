@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Via Varejo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nome Completo</string>
+    <string name="nav_header_subtitle">nome@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_produto">Produtos</string>
+    <string name="dev_android">DEV ANDROID</string>
+    <string name="version">VERSION(1.0.0)</string>
+    <string name="version_code">version_code(10000)</string>
+    <string name="ver_parcel">ver parcelamento</string>
+    <string name="caracteristicas">Características</string>
+    <string name="avaliacoes">Avaliações</string>
+    <string name="viu_comprou">Quem viu comprou</string>
+    <string name="comprar">Comprar</string>
+    <string name="ult_coment">Último Comentário</string>
+</resources>
